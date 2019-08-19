@@ -1,0 +1,50 @@
+
+body{
+    font-family: Arial;
+}
+.form-text {
+    margin-top: 4px;
+}
+
+.img-textarea {
+    width: 15%;
+    height: auto;
+    position: absolute;
+    bottom: 120px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+#about {
+    padding-bottom: 128px;
+}
+
+.sticky-footer {
+    height: 32px;
+}
+
+.legend-title {
+    background-color: #0275d8;
+    width: 128px;
+    text-align: center;
+    margin-top: -32px;
+    border-radius: 12px;
+}
+
+#aboutTitle {
+    font-size: 1.2rem;
+}
+
+#submitButton:hover {
+    background-color: #428bca;
+}
+
+#submitButton:active {
+    background-color: #5cb85c;
+}
+
+.card-body {
+    background-color: #212121;
+}
